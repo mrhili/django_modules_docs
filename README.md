@@ -3,7 +3,7 @@
 Base reference: https://docs.djangoproject.com/en/3.1/py-modindex/
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/modules_map.png?raw=true)
+![xmind project](https://github.com/mrhili/django_modules_docs/blob/master/modules_map.png?raw=true)
 
 
 Django
